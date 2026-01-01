@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Concours-du-jour / Karmouna</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1a1a1a;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ff0000;
+      color: #fff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      border-bottom: 2px solid #ff0000;
+    }
+    h2 {
+      color: #ff0000;
+      margin-top: 0;
+    }
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+    .button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      margin-top: 1rem;
+      background-color: #ff0000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    .footer {
+      background-color: #111;
+      color: #fff;
+      text-align: center;
+      padding: 1.5rem 1rem;
+      font-size: 0.9rem;
+    }
+    @media(max-width: 600px){
+      header h1 { font-size: 1.5rem; }
+      p { font-size: 0.95rem; }
+      .button { width: 100%; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Concours-du-jour / Karmouna 🎮</h1>
+</header>
+
+<!-- Concours Gratuit -->
+<section>
+  <h2>🔥 Tournoi Fortnite Battle Royale – Gratuit ! 🔥</h2>
+  <p>Participation 100% gratuite<br>
+  Fortnite Battle Royale, 1 gagnant unique<br>
+  Prix : <strong>20 €</strong><br>
+  Format : 1 match unique, fair-play<br>
+  Inscription via Discord : <a href="https://discord.gg/GbfMsXHMj" style="color:#fff; text-decoration:underline;">https://discord.gg/GbfMsXHMj</a></p>
+  <a class="button" href="https://discord.gg/GbfMsXHMj">S’inscrire maintenant</a>
+</section>
+
+<!-- Coaching 1v1 -->
+<section>
+  <h2>🎮 Coaching personnalisé 1v1 🎮</h2>
+  <p>Analyse du gameplay Fortnite : positionnement, edits, aim, late game<br>
+  Conseils avancés + plan personnalisé<br>
+  Session de 30–60 min<br>
+  Paiement via PayPal directement dans Discord<br>
+  Réservation / contact : <a href="https://discord.gg/GbfMsXHMj" style="color:#fff; text-decoration:underline;">https://discord.gg/GbfMsXHMj</a></p>
+  <a class="button" href="https://discord.gg/GbfMsXHMj">Réserver maintenant</a>
+</section>
+
+<!-- 1v1 personnalisé -->
+<section>
+  <h2>⚔️ Défi 1v1 personnalisé ⚔️</h2>
+  <p>Partie personnalisée Fortnite Battle Royale (code créateur)<br>
+  Mini-jeux avant le début<br>
+  Prix pour le gagnant : jusqu’à 20 €<br>
+  Paiement via PayPal directement dans Discord<br>
+  Réservation / contact : <a href="https://discord.gg/GbfMsXHMj" style="color:#fff; text-decoration:underline;">https://discord.gg/GbfMsXHMj</a></p>
+  <a class="button" href="https://discord.gg/GbfMsXHMj">Réserver le 1v1</a>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <p>Horaires : 8 janvier 13:30 → fin non prévue<br>
+  Plateformes : multiplateforme (PC / console / mobile)<br>
+  Contact : Discord uniquement → <a href="https://discord.gg/GbfMsXHMj" style="color:#fff; text-decoration:underline;">https://discord.gg/GbfMsXHMj</a><br>
+  Politique : pas de remboursement (entrée gratuite)</p>
+</footer>
+
+</body>
+</html>
